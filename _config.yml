@@ -2,5 +2,5 @@ theme: jekyll-theme-architect
 # Google Analytics
 google_analytics: UA-114692803-1
 show_downloads: false
-title: Short code
+title: <img src="assets/imgs/shortcode.png" />
 description: tips, tutorials and arcticles on crafting software
